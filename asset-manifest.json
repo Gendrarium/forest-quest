@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64f9f3a2.css",
+    "main.js": "./static/js/main.67409b0f.js",
+    "static/media/1-2-1.jpeg": "./static/media/1-2-1.3c0b9f808c27922904d0.jpeg",
+    "static/media/1-2-2-1-1-1.jpeg": "./static/media/1-2-2-1-1-1.4f88de94add851f612b9.jpeg",
+    "static/media/0.jpg": "./static/media/0.5ae230e32114b9616075.jpg",
+    "static/media/1-2-2-1-2-1-2.jpg": "./static/media/1-2-2-1-2-1-2.303518c10ab3995d2d15.jpg",
+    "static/media/1-2-2-2.jpg": "./static/media/1-2-2-2.728109de651302e4beea.jpg",
+    "static/media/1-2-2-1-2-1.jpg": "./static/media/1-2-2-1-2-1.c557fd96892540f8da55.jpg",
+    "static/media/1-2.jpg": "./static/media/1-2.e676f56464e4ab45b8d6.jpg",
+    "static/media/1.jpeg": "./static/media/1.58cb37a63bd6088ce77c.jpeg",
+    "static/media/1-2-2-1.jpg": "./static/media/1-2-2-1.ada80c2c2ff35bf9bca0.jpg",
+    "static/media/1-2-2-1-2-1-1.jpg": "./static/media/1-2-2-1-2-1-1.1a6e297b24704ac4c98e.jpg",
+    "static/media/kvest.jpg": "./static/media/kvest.bc088253a404394c21fe.jpg",
+    "static/media/1-2-2.jpg": "./static/media/1-2-2.5a65f41fa9aa2a8dfcc8.jpg",
+    "static/media/1-2-2-1-2-1-1-2.jpg": "./static/media/1-2-2-1-2-1-1-2.6ddb5e7ba4ab7de03b9a.jpg",
+    "static/media/1-2-2-1-1-2.png": "./static/media/1-2-2-1-1-2.b404d7578dc24199c0d2.png",
+    "static/media/1-2-2-1-1-1-2.jpg": "./static/media/1-2-2-1-1-1-2.8b529d4ed4ecb806cd03.jpg",
+    "static/media/1-2-2-1-2.jpg": "./static/media/1-2-2-1-2.f08278b2045ebd910713.jpg",
+    "static/media/1-2-2-1-2-2.jpg": "./static/media/1-2-2-1-2-2.3dc80c0b5ad71a06bc8e.jpg",
+    "static/media/1-2-2-1-2-1-1-1.jpg": "./static/media/1-2-2-1-2-1-1-1.8eee89f16885941dc8bb.jpg",
+    "index.html": "./index.html",
+    "main.64f9f3a2.css.map": "./static/css/main.64f9f3a2.css.map",
+    "main.67409b0f.js.map": "./static/js/main.67409b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f9f3a2.css",
+    "static/js/main.67409b0f.js"
+  ]
+}
