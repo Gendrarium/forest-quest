@@ -38,19 +38,23 @@ const GameWrapper: React.FC<GameWrapperProps> = ({
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
             allowFullScreen></iframe>
         )}
-        {leftLink && (
+        {leftLink ? (
           <Link
             className='grid-wrapper__link grid-wrapper__link_left'
             to={leftLink}>
             {leftText}
           </Link>
+        ) : (
+          <p className='grid-wrapper__link grid-wrapper__link_left'></p>
         )}
-        {rightLink && (
+        {rightLink ? (
           <Link
             className='grid-wrapper__link grid-wrapper__link_right'
             to={rightLink}>
             {rightText}
           </Link>
+        ) : (
+          <p className='grid-wrapper__link grid-wrapper__link_right'></p>
         )}
       </div>
       {thanks && <p>Спасибо за игру!</p>}
