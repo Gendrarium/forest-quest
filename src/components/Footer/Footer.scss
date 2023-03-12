@@ -1,0 +1,33 @@
+@import '../../styles/styles.scss';
+
+.footer {
+  color: rgba($color: $color-main, $alpha: 0.5);
+  padding: 10px 0;
+
+  &__full-container {
+    margin: auto;
+    position: relative;
+    z-index: 1;
+    padding: 10px 0;
+    box-sizing: border-box;
+    max-width: 1440px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__copyright {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+
+    @include mq(1023) {
+      font-size: 16px;
+    }
+
+    @include mq(767) {
+      font-size: 14px;
+    }
+  }
+}

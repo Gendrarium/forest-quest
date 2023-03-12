@@ -1,0 +1,20 @@
+.page {
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #403a3a;
+  align-items: flex-start;
+  padding: 10px 0 0;
+  box-sizing: border-box;
+
+  &__game {
+    margin: auto auto 0;
+  }
+
+  &__footer {
+    margin: auto auto 0;
+  }
+}
