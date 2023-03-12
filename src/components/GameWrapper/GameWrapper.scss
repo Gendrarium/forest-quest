@@ -59,7 +59,7 @@
   display: grid;
   grid-template-columns: repeat(2, min-content);
   grid-template-rows: repeat(3, min-content);
-  gap: 10px 0;
+  gap: 10px;
   grid-template-areas:
     'image image'
     'image image'
@@ -112,7 +112,6 @@
   &__link {
     font-size: 25px;
     color: $color-main;
-    width: 450px;
 
     &_left {
       grid-area: left;
@@ -126,22 +125,18 @@
 
     @include mq(1279) {
       font-size: 23px;
-      width: 400px;
     }
 
     @include mq(1023) {
       font-size: 20px;
-      width: 350px;
     }
 
     @include mq(767) {
       font-size: 15px;
-      width: 225px;
     }
 
     @include mq(479) {
       font-size: 10px;
-      width: 150px;
     }
   }
 }
